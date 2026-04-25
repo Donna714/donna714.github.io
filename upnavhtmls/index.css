@@ -40,7 +40,7 @@ header {
     color: rgb(208, 0, 166);
     padding: 14px 16px;
     text-decoration: none;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'JetBrains Mono', Segoe UI, monospace;
     transition: background-color 0.2s ease, color 0.2s ease;
 }
 
